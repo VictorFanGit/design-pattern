@@ -6,7 +6,6 @@ import static java.lang.Runtime.getRuntime;
 public class Singleton4 {
 
     private Singleton4() {
-
     }
 
     private static class SingletonHolder {
